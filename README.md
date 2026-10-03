@@ -1,4 +1,4 @@
-# Model Gap Fix — Minecraft 1.12.2 LiteLoader
+# Model Gap Fix — Minecraft 1.12.2
 
 A client-side port of MehVahdJukaar's [Model Gap Fix](https://github.com/MehVahdJukaar/modelfix-multi)
 that adjusts sprite UV bounds and generated item edges to reduce model seams. No gameplay
@@ -7,7 +7,7 @@ changes, network calls or server component. Licensed under [GPL-3.0](LICENSE).
 ## Install
 
 Requires Minecraft Java 1.12.2 and LiteLoader. Put
-`modelgapfix-liteloader-1.12.2-1.0.0.litemod` in your instance's `minecraft/mods/` or
+`modelgapfix-1.12.2-1.0.0.litemod` in your instance's `minecraft/mods/` or
 `minecraft/mods/1.12.2/`, then restart.
 
 ## Build

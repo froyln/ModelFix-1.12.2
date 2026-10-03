@@ -3,7 +3,7 @@
 ## Requirements and installation
 
 Use Minecraft Java 1.12.2 with LiteLoader and Java 8. Place the built file
-`modelgapfix-liteloader-1.12.2-1.0.0.litemod` in the instance's `minecraft/mods/` directory
+`modelgapfix-1.12.2-1.0.0.litemod` in the instance's `minecraft/mods/` directory
 or LiteLoader's version folder `minecraft/mods/1.12.2/`. Keep only one active copy and
 restart the instance after replacing it. Installation does not require a server mod.
 

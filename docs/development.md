@@ -15,7 +15,7 @@ JAVA_HOME=/usr/lib/jvm/java-8-openjdk ./gradlew build
 Use an appropriate Java 8 installation path on other systems. Gradle 4.10.3 does not run
 on this machine's default Java 21. The first workspace build needs dependency downloads
 and Minecraft processing; later builds reuse the cache. Add `--offline` only with a warm
-cache. Output is `build/libs/modelgapfix-liteloader-1.12.2-1.0.0.litemod`.
+cache. Output is `build/libs/modelgapfix-1.12.2-1.0.0.litemod`.
 
 The build includes tests, Mixin annotation processing, packaging and reobfuscation. Inspect
 the output for target ambiguity warnings even if it exits zero. `build.number`, generated
