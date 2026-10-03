@@ -1,0 +1,35 @@
+# Claude Code personal files
+CLAUDE.local.md
+.claude/settings.local.json
+.claude/logs/
+.claude/agent-memory-local/
+
+# Secrets
+.env
+.env.*
+!.env.example
+secrets/
+
+# Gradle / ForgeGradle
+build/
+.gradle/
+run/
+*.launch
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Local agent instructions, planning and tooling (retain on disk)
+AGENTS.md
+CLAUDE*.md*
+PLAN.md
+.claude/
+.agents/
+.codex/
+.mcp.json*
+
+# Generated build revision and runtime logs
+build.number
+logs/
